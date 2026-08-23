@@ -24,3 +24,5 @@
 
 > Copy each line exactly as the workshop gives it to you,
 > like: - ✦ First Commit (Project 0)
+
+> ✦ First Commit (Project 0)
